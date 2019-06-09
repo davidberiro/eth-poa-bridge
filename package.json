@@ -1,0 +1,21 @@
+{
+  "name": "eth-poa-bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "openzeppelin-solidity": "^2.3.0",
+    "truffle": "^5.0.20",
+    "web3": "^1.0.0-beta.55"
+  }
+}
